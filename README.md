@@ -1,1 +1,1 @@
-# validacao-instalacoes-eletricas
+# validacao-instalacoes-eletrica
